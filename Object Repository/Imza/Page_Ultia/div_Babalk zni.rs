@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Babalk zni</name>
+   <tag></tag>
+   <elementGuidId>bda7347b-74fd-43a5-91f4-c906c732ea69</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='AbsenceTypeValue_9071ab48-408c-4b4b-8bee-954c74060320']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#AbsenceTypeValue_9071ab48-408c-4b4b-8bee-954c74060320 > div.ant-select-item-option-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5cceb70b-b4cf-44a4-bedf-62c4a4ef327b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-item-option-content</value>
+      <webElementGuid>58809540-ae54-453f-a490-3d5d17c55230</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Babalık İzni</value>
+      <webElementGuid>358c0778-34ba-460e-8498-28bf93879d67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AbsenceTypeValue_9071ab48-408c-4b4b-8bee-954c74060320&quot;)/div[@class=&quot;ant-select-item-option-content&quot;]</value>
+      <webElementGuid>9ed835ea-d33f-4223-a068-2d8437934db0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AbsenceTypeValue_9071ab48-408c-4b4b-8bee-954c74060320']/div</value>
+      <webElementGuid>2f7eccae-4e70-46bc-a89c-c3fd066c2488</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hastalık İzni'])[1]/following::div[2]</value>
+      <webElementGuid>a72e2942-570e-4b63-9211-81408b07729b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Evlilik İzni'])[1]/following::div[4]</value>
+      <webElementGuid>27b3f2a8-3f88-46f4-904f-a7127ce64818</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Doğum İzni'])[1]/preceding::div[1]</value>
+      <webElementGuid>fe1bb0b7-37e4-4f43-8b60-2ec390073cb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vefat İzni'])[1]/preceding::div[3]</value>
+      <webElementGuid>0c9a00d2-bc13-4e5d-b41c-16507880baab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Babalık İzni']/parent::*</value>
+      <webElementGuid>bfaa91d3-919b-4a19-9881-b83d63d81ab8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[4]/div</value>
+      <webElementGuid>47dc89b0-b439-4efa-ab95-4cc1f5cefc19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Babalık İzni' or . = 'Babalık İzni')]</value>
+      <webElementGuid>3913fc40-75b5-4b4f-98b7-7315f140fdff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
